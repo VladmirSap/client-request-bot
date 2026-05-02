@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.example</groupId>
-	<artifactId>client-request</artifactId>
+	<artifactId>client-request-bot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
